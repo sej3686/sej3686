@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Web developer from Denmark</h3>
+<h3 align="center">Web Developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fistermedister&label=Profile%20views&color=0e75b6&style=flat" alt="sej3686" /> </p>
 
