@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pizza Delivery Website**
 
-- 🌱 I’m currenly learning **React, Reactnative**
+- 🌱 I’m currently learning **React, Reactnative**
 
 - 👨‍💻 All of my projects are available at [https//:www.sej.one](https//:www.sej.one)
 
