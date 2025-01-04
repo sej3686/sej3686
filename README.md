@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fistermedister&label=Profile%20views&color=0e75b6&style=flat" alt="sej3686" /> </p>
 
-- 🔭 I’m currentl working on **Pizza Delivery Website**
+- 🔭 I’m currently working on **Pizza Delivery Website**
 
 - 🌱 I’m currently learning **React, Reactnative**
 
